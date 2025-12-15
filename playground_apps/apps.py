@@ -1,5 +1,5 @@
 from django.apps import AppConfig
 
 
-class PlaygroundConfig(AppConfig):
+class PlaygroundAppConfig(AppConfig):
     name = 'playground_apps'
